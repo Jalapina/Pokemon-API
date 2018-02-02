@@ -5,11 +5,12 @@
 }
 #pokedox{
 
-    background-color: rgba(255, 220, 7, 1);
+  background-color: rgba(255, 220, 7, 1);
   height: 373px;
   width: 239px;
   margin-left: 19px;
   border-radius: 20px;
+  text-align: center;
   /*margin: 30px 0px 0px 942px*/
 }
 img{
@@ -32,7 +33,7 @@ h2{
   margin-top: -143px;
 }
 #dox{
-  margin-left:47px;
+  /* margin-left:47px; */
 }
 #type{
   text-align: center;
@@ -49,4 +50,11 @@ h2{
 }
 body{
   background-color: darkorange;
+}
+h1{
+  text-align: center;
+  color: blue;
+  font-style: italic;
+  font-size: 50px;
+  font-family: sans-serif;
 }
